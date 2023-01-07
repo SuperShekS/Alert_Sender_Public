@@ -15,7 +15,7 @@ Provide a number of commands for interacting with the wallet and email functiona
 ## Requirements
 
 The code uses the configparser, http, re, json, bs4, and mechanize libraries.
-The code requires a config.ini file with certain defined fields (e.g. [telegram] section with bot_1, bot_2, bot_3, bot_4, group_1, group_3).
+The code requires a config.ini file with certain defined fields (e.g. telegram bots and group channels, and login details).
 The code requires the activators.py and mailer.py files to be in the same directory.
 
 ## Usage
